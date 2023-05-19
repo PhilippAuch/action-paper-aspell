@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM ubuntu:23.10
 
 LABEL version="0.0.1"
 LABEL repository="https://github.com/mh61503891/action-paper-aspell"
